@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saksham Nanda</h1>
+<h1 align="center">Hi, I'm Saksham Nanda</h1>
 <h3 align="center">Full Stack MERN Developer | Tech Innovator | Web Dev</h3>
 
 <p align="center">
